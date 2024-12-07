@@ -1,7 +1,6 @@
 
+![Group 110](https://github.com/user-attachments/assets/b40f991a-b65a-45ac-9815-0d03b0a3a895)
 
-<h1 align="center">Hi 👋, I'm Ana</h1>
-<h3 align="center">A passionate frontend and backend developer from Spain</h3>
 
 - 🔭 I’m currently working on **a Task Web App**
 
