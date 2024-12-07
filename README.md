@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [www.linkedin.com/in/ana-sanchez-cruz](www.linkedin.com/in/ana-sanchez-cruz)
 
-- ⚡ Fun fact, When I’m not coding, I’m either hiking to clear my head or writing lifestyle articles!**
+- ⚡ Fun fact, **When I’m not coding, I’m either hiking to clear my head or writing lifestyle articles!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
