@@ -1,5 +1,4 @@
 
-![header](https://github.com/user-attachments/assets/687244e9-7160-4c83-a5ef-801100ca2f55)
 
 <h1 align="center">Hi 👋, I'm Ana</h1>
 <h3 align="center">A passionate frontend and backend developer from Spain</h3>
