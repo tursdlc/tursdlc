@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Front End projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/tursdlc](https://github.com/tursdlc)
+- 👨‍💻 All of my projects are available at https://github.com/tursdlc
 
 - 📝 I enjoy creating content for students of Spanish on my website https://spanishish.com/
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **ana89.sdlc@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/ana-sanchez-cruz](www.linkedin.com/in/ana-sanchez-cruz)
+- 📄 Know about my experiences www.linkedin.com/in/ana-sanchez-cruz
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
