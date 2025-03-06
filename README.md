@@ -10,15 +10,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/tursdlc](https://github.com/tursdlc)
 
-- 📝 I regularly write articles on [https://medium.com/@pensandouncamino](https://medium.com/@pensandouncamino)
+- 📝 I enjoy creating content for students of Spanish on my website https://spanishish.com/
 
 - 💬 Ask me about **HTML, CSS, JS**
 
 - 📫 How to reach me **ana89.sdlc@gmail.com**
 
 - 📄 Know about my experiences [www.linkedin.com/in/ana-sanchez-cruz](www.linkedin.com/in/ana-sanchez-cruz)
-
-- ⚡ Fun fact, **When I’m not coding, I’m either hiking to clear my head or writing lifestyle articles!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
